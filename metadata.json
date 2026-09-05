@@ -1,0 +1,6 @@
+{
+  "name": "FLW. — Sourcing from China to South Africa",
+  "description": "Modern, premium e-commerce sourcing website prototype for FLW. Sourcing electronics, fashion, and custom goods from China to South Africa in 7-10 days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
